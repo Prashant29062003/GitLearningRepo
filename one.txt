@@ -1,3 +1,6 @@
 this first file.
 
 add another cmmand.
+add 1 cmmand.
+add 2 cmmand.
+add 3 cmmand.
